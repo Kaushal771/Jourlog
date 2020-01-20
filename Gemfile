@@ -34,8 +34,9 @@ gem 'better_errors', '~> 2.4'
 # bulma for Css
 gem 'bulma-rails', '~> 0.6.1'
 
+gem 'actionpack', '~> 6.0', '>= 6.0.2.1'
 # Simple Forms
-#gem 'simple_form', '~> 3.2', '>= 3.2.1'
+gem 'simple_form', '~> 3.5', '>= 3.5.1'
 
 
 
